@@ -1,11 +1,10 @@
 html {
     background-color:rgb(112, 144, 130);
-    color:rgb(53, 53, 53);
 }
 
 .square-list {
     list-style-type: square;
-    color:blue;
+    color:rgb(8, 118, 19);
 }
 
 .letters-list {
