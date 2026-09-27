@@ -5,6 +5,15 @@ html {
 
 .square-list {
     list-style-type: square;
+    color:blue;
 }
 
-.letter-list
+.letters-list {
+    list-style: upper-alpha;
+}
+    .nav {
+        list-style-type: none;
+        background-color:rgb(43, 102, 84);
+        padding: 30px;
+        margin-bottom: 50px;
+    }
